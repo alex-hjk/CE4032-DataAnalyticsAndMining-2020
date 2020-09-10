@@ -8,7 +8,7 @@ The repository is divided into 6 different folders, pertaining to the EDA findin
 
 ### Google Drive Project Folder
 
-The link to our project folder can be found [here](https://drive.google.com/drive/u/0/folders/1LSlJKVa6ECTz7W2zkO3fYSs6ApiO07Ea).
+After signing into your Gmail, the link to our project folder can be found [here](https://drive.google.com/drive/u/1/folders/1LSlJKVa6ECTz7W2zkO3fYSs6ApiO07Ea).
 
 ### NTULearn Assignment PDF
 

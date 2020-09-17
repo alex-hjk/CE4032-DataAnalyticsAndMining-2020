@@ -17,3 +17,11 @@ After signing into NTULearn, the link to the assignment PDF can be found [here](
 ### Kaggle Dataset Link
 
 The link to the Kaggle Dataset website can be found [here](https://www.kaggle.com/START-UMD/gtd).
+
+## Done By
+* Alexander Ho
+* Gwyneth Ang
+* Lim Xiao Qi
+* Lim Yee Han
+* Sit Han Zhe
+* Vincent Wong 
